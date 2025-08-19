@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "title": "Jurassic world rebirth",
+      "description": "Un corto animado libre de copyright",
+      "imageUrl": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2025/06/13172640/q0fGCmjLu42MPlSO9OYWpI5w86I-scaled.jpg",
+      "videoUrl": "https://voe.sx/svxvkkbhhmep"
+    },
+    {
+      "title": "Sintel",
+      "description": "Película animada libre",
+      "imageUrl": "https://durian.blender.org/wp-content/uploads/2010/05/sintel_poster.jpg",
+      "videoUrl": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4"
+    }
+  ]
+}
